@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌎 How to reach me
 
-- -> [Website](https://ziadiparast.ir)
-- -> [Linkedin](https://ir.linkedin.com/in/ziadiparast)
-- -> [Instagram](https://instagram.com/ziadiparast)
-- -> [Telegram](https://t.me/HW468278)
+-  [Website](https://ziadiparast.ir)
+-  [Linkedin](https://ir.linkedin.com/in/ziadiparast)
+-  [Instagram](https://instagram.com/ziadiparast)
+-  [Telegram](https://t.me/HW468278)
 
 ## 🚀 Blog Posts
 
